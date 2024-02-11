@@ -1,0 +1,11 @@
+No need an entities for database that only consist of one entities
+excample: University entities when the database is only for ITS
+
+No need for entities that only consist of 2 semester, instead you can use period to replace them
+example: Odd semester or Even Semester
+
+Strong Entity: IM INDEPENDENT! 
+
+Weak Entity: I can't stand alone(need more than attribute), I need Friends! 
+
+
